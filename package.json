@@ -1,0 +1,7 @@
+{
+  "name": "nest-keycloak-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "savio777",
+  "license": "MIT"
+}
